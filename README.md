@@ -10,7 +10,7 @@ This is my [LinkedIn profile](https://www.linkedin.com/in/dorota-anna-strzelecka
  - [writing test cases](https://docs.google.com/spreadsheets/d/1zPPDsfIzF4ZiUUsAtWzGJgTkTW75ugP_xaIP0v2w1a0/edit#gid=0)
  - [reporting bugs](https://docs.google.com/spreadsheets/d/1FaXpOwPhmqCUNZjDiu7S9E8Cl5EN8CxWqXOU3nAvnes/edit?usp=drive_link)
  - [exploratory testing](https://docs.google.com/spreadsheets/d/1zPPDsfIzF4ZiUUsAtWzGJgTkTW75ugP_xaIP0v2w1a0/edit#gid=0)
- - [creating test reports](https://docs.google.com/document/d/1A4OZUM8-a3qJvJtBDRqSAUafLeQQ8cy-hpkIjiHffUY/edit?usp=drive_link)  
+ - [test reports](https://docs.google.com/document/d/1A4OZUM8-a3qJvJtBDRqSAUafLeQQ8cy-hpkIjiHffUY/edit?usp=drive_link)  
  - SQL 👉 [1](https://github.com/dastrzelecka/challenge_portfolio_DorStr/blob/main/README.md#task-5), [2](https://github.com/dastrzelecka/challenge_portfolio_DorStr/blob/main/README.md#task-6)
  - HTML, CSS basics
  - Linux terminal commands
