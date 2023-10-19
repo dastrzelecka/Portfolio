@@ -54,3 +54,4 @@ This is my [LinkedIn profile](https://www.linkedin.com/in/dorota-anna-strzelecka
  - Maraton HTML i CSS (7 dni) - GoIT
  - Maraton QA dla początkujących - GoIT
  - Zawsze potrzebne techniczne kompetencje w rolach IT - Rita Łyczywek
+ - Playwright w akcji – testy GUI bez backendu. Przyspiesz testy z podstawami API i mockowaniem w Playwright (z TypeScript) - jaktestowac.pl
